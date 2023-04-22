@@ -78,7 +78,7 @@ body{
 
 .home{
     height: 100vh;
-    background: url('/images/nubelson-fernandes--Xqckh_XVU4-unsplash.jpg') no-repeat;
+    background: url('images/nubelson-fernandes--Xqckh_XVU4-unsplash.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
